@@ -25,7 +25,7 @@ The firmware software project is configured to compile for ATmega32U4 with WinAV
 
 ## Open questions
 
-    - Can ATMega32U4 (Teensy) handle it all or is there need for more memory or calculation power?
+    - Can AT90USB1286 (Teensy++ 2.0) handle it all or is there need for more memory or calculation power?
 
 ## Why
 (from the original branch)
