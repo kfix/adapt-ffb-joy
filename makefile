@@ -61,8 +61,8 @@
 
 
 # MCU name
-#MCU = at90usb1287
-MCU = atmega32u4
+MCU = at90usb1286
+#MCU = atmega32u4
 
 # Target architecture (see library "Board Types" documentation).
 ARCH = AVR8
@@ -72,7 +72,6 @@ ARCH = AVR8
 # LUFA board drivers). If USER is selected, put custom board drivers in a directory called
 # "Board" inside the application directory.
 BOARD = TEENSY2
-
 
 # Processor frequency.
 #     This will define a symbol, F_CPU, in all source code files equal to the
